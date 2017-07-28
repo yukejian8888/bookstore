@@ -15,7 +15,7 @@ class AdminController extends CommonController{
         $this->assign('data',$data);
         $this->display();
     }
-    //加载添加管理员页面
+    //加载添加管理员页面111
     function add(){
         $this->display();
     }
